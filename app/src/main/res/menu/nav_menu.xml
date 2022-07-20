@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/cocktailsSearch"
+        android:icon="@drawable/searchcocktail"
+        android:title="Search cocktails"
+        app:showAsAction="ifRoom|collapseActionView"
+        android:actionLayout="@layout/fragment_cocktails_search"
+        app:actionViewClass="android.widget.SearchView" />
+
+    <item android:id="@+id/mainPage"
+        android:icon="@drawable/homepage"
+        android:title="Home"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/favoritesFragment"
+        android:icon="@drawable/favorite"
+        android:title="Favorites"
+        app:showAsAction="ifRoom"/>
+
+</menu>

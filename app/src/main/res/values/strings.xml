@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android Final Project</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_results">No Results</string>
+    <string name="opening_sentence">Want to make a cocktail?\nHere you can find a variety of highly recommended cocktail receipes!\nenjoy!</string>
+    <string name="cocktail_bar_title">Cocktail Bar</string>
+    <string name="opening_second_sentence">“You can’t buy happiness, but you can prepare a cocktail. And that’s kind of the same thing.”</string>
+    <string name="cocktails_of_the_day">Cocktails of the day:</string>
+    <string name="ingredients_arent_available">Ingredients aren\'t available by the API</string>
+    <string name="icon_of_a_cocktail">icon of a cocktail</string>
+</resources>
